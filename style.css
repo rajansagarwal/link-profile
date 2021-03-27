@@ -1,0 +1,59 @@
+body {
+background: black;
+color: #fff;
+font-family: 'Poppins', sans-serif;
+font-size: 15px;
+letter-spacing: 2px;
+}
+img {
+border-radius: 50%;
+}
+.profile-picture {
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 4%;
+height: auto;
+max-width: 100px;
+}
+.profile-name {
+text-align: center;
+padding: 25px;
+}
+.profile-subheader {
+text-align: center;
+padding: 15px;
+}
+.links {
+text-align: center;
+margin-top: 20px;
+padding: 20px;
+border: 1px solid white;
+border-width: 2px;
+width: 290px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 40px;
+}
+a {
+text-decoration: none;
+color: white;
+transition: color 1s;
+transition: 0.8 ease;
+
+}
+.bottom-text {
+text-align: center;
+margin-top: 40px;
+font-size: 20px;
+font-weight: bold;
+}
+a:hover {
+background: #fff;
+color: #000;
+transition: 0.8 ease;
+}
+.links-cover {
+  transition: 0.8 ease;
+}
